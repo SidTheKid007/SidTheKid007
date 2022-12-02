@@ -6,7 +6,7 @@
 
 ##### NOW
 
-- ✨ Created [Filers by MKS](https://laracon.net) to market my custom Instagram filters
+- ✨ Created [Filers by MKS](https://www.filtersbymks.com/) to market my custom Instagram filters
 - 🇺🇸 Supporting US Men's Natinal team for Soccer
 - 🏃🏾 Training for my next big marathon
 
