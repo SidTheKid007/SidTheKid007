@@ -6,7 +6,7 @@
 
 ##### NOW
 
-- ✨ Created [Filers by MKS](https://www.filtersbymks.com/) to market my custom Instagram filters
+- ✨ Created [Regression Testing](https://regression-testing.herokuapp.com/) to help help users understand and visuallize Big Datasets
 - 🇺🇸 Supporting the US team for the Olympics
 - 🏃🏾 Training for my next big marathon
 
@@ -15,8 +15,8 @@
 - 🏢 I'm currently working at **Loch Technologies**
 - ⚙️ I work mostly with: `Python`, `SQL`, `HTML`, `Analytics`
 - 🌍 I'm most active within the **SparkAR Community**
-- 👾 Developed: [Let's Play Trivia](https://letsplaytrivia.webflow.io/), [NewChef](https://newchef.herokuapp.com/diversity), [Regression Testing](https://regression-testing.herokuapp.com/), etc…
+- 👾 Developed: [Let's Play Trivia](https://letsplaytrivia.webflow.io/), [NewChef](https://newchef.herokuapp.com/diversity), [Filers by MKS](https://www.filtersbymks.com/), etc…
 - 🌱 Learning more about **Augmented Reality**
 - 💬 Ping me about **Python**, **Flask**, **SKLearn**, **SparkAR**, **Tableau**
 - 📫 Reach me: [www.sidkannan.com/](https://www.sidkannan.com/)
-- 🎹 Fun fact: I'm a huge fan of playing the piano
+- 🎹 Fun fact: I make custom piano covers on TikTok
