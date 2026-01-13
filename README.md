@@ -1,4 +1,4 @@
-![alt text](https://sidkannan.com/public/AboutFace.jpeg)
+![alt text](https://sidkannan.com/public/BackgroundHero.jpeg)
 
 ### Hi there! I'm Sid K 👋
 
