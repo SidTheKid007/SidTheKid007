@@ -1,4 +1,4 @@
-![alt text](https://cdn.glitch.global/2ffa702d-3268-4e73-bbd8-5cad3d52a86e/backgroundSid1.jpg?v=1669163820989)
+![alt text](https://sidkannan.com/public/AboutFace.jpeg)
 
 ### Hi there! I'm Sid K 👋
 
