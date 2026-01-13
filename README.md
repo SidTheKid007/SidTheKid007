@@ -2,21 +2,19 @@
 
 ### Hi there! I'm Sid K 👋
 
-#### I'm a Data Scientist and Software Developer working in Walnut Creek, California.
+#### I'm a Software Developer working in Fontana, California.
 
 ##### NOW
 
 - ✨ Created [Regression Testing](https://regression-testing.herokuapp.com/) to help help users understand and visuallize Big Datasets
-- 🇺🇸 Supporting the US team for the Olympics
 - 🏃🏾 Training for my next big marathon
+- 🎹 Making custom piano covers for TikTok
 
 ##### BIO
 
-- 🏢 I'm currently working at **Loch Technologies**
-- ⚙️ I work mostly with: `Python`, `SQL`, `HTML`, `Analytics`
-- 🌍 I'm most active within the **SparkAR Community**
-- 👾 Developed: [Let's Play Trivia](https://letsplaytrivia.webflow.io/), [NewChef](https://newchef.herokuapp.com/diversity), [Filers by MKS](https://www.filtersbymks.com/), etc…
-- 🌱 Learning more about **Augmented Reality**
-- 💬 Ping me about **Python**, **Flask**, **SKLearn**, **SparkAR**, **Tableau**
+- 🏢 I'm currently working at **US Engineering League**
+- ⚙️ I work mostly with: **Python**, **Flask**, **Data Science**, **Data Analytics**
+- 🌍 I'm most active within the **Augmented Reality Community**
+- 👾 Developed: [NewChef](https://newchef.herokuapp.com/diversity) to help aspiring restaraunt owners
+- 🌱 Learning more about **Artificial Intelligence**
 - 📫 Reach me: [www.sidkannan.com/](https://www.sidkannan.com/)
-- 🎹 Fun fact: I make custom piano covers on TikTok
